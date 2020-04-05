@@ -1,0 +1,10 @@
+{
+  "name": "born/terminal",
+  "description": "Stock info on product page.",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Born\\Terminal\\": ""
+    }
+  }
+}

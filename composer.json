@@ -1,6 +1,6 @@
 {
   "name": "born/terminal",
-  "description": "Stock info on product page.",
+  "description": "Born terminal module.",
   "version": "1.0.0",
   "autoload": {
     "psr-4": {
